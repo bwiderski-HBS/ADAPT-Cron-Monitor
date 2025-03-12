@@ -1,0 +1,3 @@
+# Run daily report on ADAPT Prod volumes existance and FSx sync status
+# turned off 3/12/2025 per Keith Pendergrass
+# 30 7 * * * svc_nasmonitor /home/svc_nasmonitor/adapt-health-prd.sh
