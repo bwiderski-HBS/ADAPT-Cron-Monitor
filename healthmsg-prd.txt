@@ -1,0 +1,1 @@
+Attached is output from ADAtAttached is output from ADAPT FSx listing the on-prem Prod origin volumes and the FSx copies. If the "healthy" column says "true" they both exist and are synchronizing. Note that time in the report is Universal Time, not Eastern.
