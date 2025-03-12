@@ -1,0 +1,1 @@
+Attached is output from running a "diff" command comparing today's ADAPT Prod volumes report against yesterday's report. Note that time in the report is Universal Time, not Eastern.
